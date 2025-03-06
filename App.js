@@ -13,6 +13,27 @@ const cars = [
     year: '2023',
     color: 'Cinza',
     image: 'https://images.unsplash.com/photo-1617469767053-d3b523a0b982?w=800&auto=format&fit=crop'
+  },
+  {
+    model: 'Kawasaki Ninja 300',
+    year: '2022',
+    color: 'Preta',
+    type: 'Moto',
+    image: 'https://motos.net.br/wp-content/uploads/kawasaki-ninja-300-design.jpg'
+  },
+  {
+    model: 'Dodge RAM',
+    year: '2025',
+    color: 'Preto',
+    type: 'Carro',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_602284-MLA80138689839_102024-OO.webp'
+  },
+  {
+    model: 'Lamborghini Aventador',
+    year: '2021',
+    color: 'Roxa',
+    type: 'Supercarro',
+    image: 'https://s2-autoesporte.glbimg.com/M3LP5O96N2cTgeaDSo-hWf8rxfg=/0x0:1280x853/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2021/X/S/SSjzBeSoaAQessJx6xJg/lambofrente.jpg'
   }
 ];
 
